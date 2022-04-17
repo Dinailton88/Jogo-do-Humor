@@ -1,0 +1,68 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#tituloPrincipal {
+  text-align: center;
+
+  background-color: #ebc3ce;
+  height: 50px;
+}
+
+#fotoLogo {
+  text-align: left;
+  height: 400px;
+  background-color: white;
+  padding-right: 100%;
+  border: #ebc3ce;
+}
+
+body {
+  background-color: #ebc3ce;
+}
+header {
+  padding: 40px;
+}
+#logomarca {
+  padding: 5px;
+  border-radius: 20px;
+}
+input {
+  height: 80px;
+  width: 80px;
+  border-radius: 20%;
+}
+
+
+
+#botao {
+  text-align: center;
+  padding: 10px;
+}
+#texto {
+  text-align: center;
+  padding: 5px;
+}
+#primeiraSection {
+  display: flex;
+  background-color: white;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
+  padding: 5px;
+  
+  width: 1905px;
+
+}
+#fotos{
+    margin-left: 15rem;  
+    
+    
+}
+footer{
+    text-align: center;
+    padding: 15px;
+    font: bold 12pt Arial;
+    color: blue;
+}
